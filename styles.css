@@ -1,0 +1,10 @@
+body{
+  background-color: navy;
+}
+marquee{
+  font-size:40px;
+  background-color:navy;
+  color:white;
+  font-family:cursive;
+  text-shadow:6px 6px 8px pink;
+}
