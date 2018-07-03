@@ -2,7 +2,8 @@
 # Title
 Hotel Catering services
 ##Author
-Lewis Mutuma
+-Lewis Mutuma
+-Brian Juma
 ##Project Description
 My web page tells people more about Magic Mountain catering services Lodge
 ##Web Browser
